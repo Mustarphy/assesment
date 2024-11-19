@@ -1,0 +1,16 @@
+What is web development, and why is it essential in the context of the internet?
+Web development refers to the process of creating, building, and maintaining websites and web applications. It comprises a variety of tasks, ranging from coding, server management, database administration, designing, to even content creation. 
+Have you heard of HTML? What does HTML stand for, and what is its primary purpose in web development?
+Yes.
+  HTML stands for Hypertext Markup Language and is a language used by web browsers to interpret and represent text, images, videos, audio and other mediums for people on web pages. HTML defines the structure of a website while other technologies have their appearance (CSS) and behavior (JavaScript). "Hypertext" describes the links between pages of content on the web that you can access immediately by clicking on said link. "Markup" refers to the method by which text, images, and other content is annotated to then be displayed. Examples of these markup elements include <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <video>, <ul>, <ol>, <li> and many more.
+Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+ Yes.
+CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
+Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+Yes.
+JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user. Most of the functions and applications that make the Internet indispensable to modern life are coded in some form of JavaScript.
+Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+No!
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+I want to learn web development to have carrier diversity across various industries and  hope to secure high paying job as a software developer
+
