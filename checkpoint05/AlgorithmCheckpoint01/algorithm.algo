@@ -1,0 +1,16 @@
+sentenceLength = 0
+wordCount = 0
+vowelCount = 0
+while char is not a point:
+  read char
+  sentenceLength = sentenceLength + 1
+  if char is a space:
+    wordCount = wordCount + 1
+  if char is a vowel:
+    vowelCount = vowelCount + 1
+
+wordCount = wordCount + 1  // count the last word
+
+print sentenceLength
+print wordCount
+print vowelCount
